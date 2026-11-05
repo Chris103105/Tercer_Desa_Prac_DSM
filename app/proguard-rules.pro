@@ -1,0 +1,1 @@
+-keep class edu.udb.recursosaprendizaje.model.** { *; }
