@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mentora</string>
+
+    <string name="titulo_agregar">Agregar recurso</string>
+    <string name="titulo_editar">Modificar recurso</string>
+
+    <string name="hint_buscar_id">Buscar por ID</string>
+    <string name="btn_buscar">Buscar</string>
+    <string name="btn_ver_todos">Ver todos</string>
+    <string name="lista_vacia">No hay recursos para mostrar.\nDesliza hacia abajo para recargar o agrega uno nuevo.</string>
+    <string name="cd_agregar">Agregar recurso</string>
+
+    <string name="cd_imagen_recurso">Imagen ilustrativa del recurso</string>
+    <string name="btn_abrir">Abrir</string>
+    <string name="btn_editar">Editar</string>
+    <string name="btn_eliminar">Eliminar</string>
+    <string name="formato_id">ID %1$s</string>
+    <string name="formato_autor">Por %1$s</string>
+    <string name="formato_nivel">Nivel %1$s</string>
+    <string name="formato_autor_nivel">Por %1$s · Nivel %2$s</string>
+    <string name="tipo_desconocido">Sin tipo</string>
+
+    <string name="dialog_eliminar_titulo">Eliminar recurso</string>
+    <string name="dialog_eliminar_mensaje">¿Seguro que deseas eliminar «%1$s»? Esta acción no se puede deshacer.</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="btn_cerrar">Cerrar</string>
+    <string name="detalle_formato">ID: %1$s\nTipo: %2$s\nNivel: %3$s\nAutor: %4$s\n\n%5$s\n\nEnlace: %6$s</string>
+
+    <string name="hint_titulo">Título *</string>
+    <string name="hint_descripcion">Descripción *</string>
+    <string name="hint_tipo">Tipo de recurso *</string>
+    <string name="hint_enlace">Enlace al recurso (URL) *</string>
+    <string name="hint_imagen">URL de la imagen</string>
+    <string name="hint_autor">Autor o canal</string>
+    <string name="hint_nivel">Nivel</string>
+    <string name="btn_previsualizar">Previsualizar imagen</string>
+    <string name="btn_guardar">Guardar recurso</string>
+    <string name="btn_actualizar">Actualizar recurso</string>
+    <string name="nota_obligatorios">Los campos con * son obligatorios.</string>
+
+    <string name="error_campo_requerido">Este campo es obligatorio</string>
+    <string name="error_url_invalida">Ingresa una URL válida</string>
+    <string name="error_id_requerido">Escribe un ID</string>
+
+    <string name="msg_recursos_cargados">%1$d recursos cargados</string>
+    <string name="msg_recurso_encontrado">Recurso %1$s encontrado</string>
+    <string name="msg_recurso_no_encontrado">No existe un recurso con ID %1$s</string>
+    <string name="msg_recurso_creado">Recurso agregado correctamente</string>
+    <string name="msg_recurso_actualizado">Recurso modificado correctamente</string>
+    <string name="msg_recurso_eliminado">Recurso eliminado</string>
+    <string name="msg_error_conexion">No se pudo conectar con el servidor. Revisa tu conexión.</string>
+    <string name="msg_error_servidor">Error del servidor (código %1$d)</string>
+    <string name="msg_sin_enlace">Este recurso no tiene enlace</string>
+    <string name="msg_no_se_puede_abrir">No hay una aplicación para abrir este enlace</string>
+    <string name="msg_sin_imagen">Escribe primero la URL de la imagen</string>
+    <string name="msg_revisa_campos">Revisa los campos marcados</string>
+    <string name="msg_sin_id">Este recurso no tiene ID en la API, no se puede editar</string>
+
+    <string-array name="tipos_recurso">
+        <item>Libro</item>
+        <item>Video</item>
+        <item>Tutorial</item>
+        <item>Curso</item>
+        <item>Artículo</item>
+        <item>Documentación</item>
+    </string-array>
+
+    <string-array name="niveles_recurso">
+        <item>Básico</item>
+        <item>Intermedio</item>
+        <item>Avanzado</item>
+    </string-array>
+</resources>
