@@ -1,0 +1,74 @@
+[
+  {
+    "titulo": "Pro Git (2.ª edición en español)",
+    "descripcion": "Libro oficial y gratuito sobre Git: control de versiones, ramas, trabajo con repositorios remotos, flujos de trabajo en equipo y funcionamiento interno de Git.",
+    "tipo": "Libro",
+    "enlace": "https://git-scm.com/book/es/v2",
+    "imagen": "https://picsum.photos/seed/progit/600/320",
+    "autor": "Scott Chacon y Ben Straub",
+    "nivel": "Básico"
+  },
+  {
+    "titulo": "CS50x: Introducción a las Ciencias de la Computación",
+    "descripcion": "Curso de Harvard que cubre algoritmos, estructuras de datos, C, Python, SQL y desarrollo web. Incluye clases en video, problemas y proyecto final.",
+    "tipo": "Curso",
+    "enlace": "https://cs50.harvard.edu/x/",
+    "imagen": "https://picsum.photos/seed/cs50/600/320",
+    "autor": "Harvard University",
+    "nivel": "Básico"
+  },
+  {
+    "titulo": "Tutorial oficial de Java",
+    "descripcion": "Lecciones de Oracle sobre el lenguaje Java: programación orientada a objetos, colecciones, genéricos, excepciones y concurrencia.",
+    "tipo": "Tutorial",
+    "enlace": "https://docs.oracle.com/javase/tutorial/",
+    "imagen": "https://picsum.photos/seed/javatut/600/320",
+    "autor": "Oracle",
+    "nivel": "Intermedio"
+  },
+  {
+    "titulo": "Android Basics with Compose",
+    "descripcion": "Ruta de aprendizaje oficial de Google para crear aplicaciones Android: interfaces, navegación, arquitectura, persistencia y consumo de APIs.",
+    "tipo": "Curso",
+    "enlace": "https://developer.android.com/courses",
+    "imagen": "https://picsum.photos/seed/androiddev/600/320",
+    "autor": "Google",
+    "nivel": "Intermedio"
+  },
+  {
+    "titulo": "Tutorial de PostgreSQL",
+    "descripcion": "Introducción práctica a bases de datos relacionales con PostgreSQL: creación de tablas, consultas SQL, joins, transacciones y vistas.",
+    "tipo": "Documentación",
+    "enlace": "https://www.postgresql.org/docs/current/tutorial.html",
+    "imagen": "https://picsum.photos/seed/postgres/600/320",
+    "autor": "PostgreSQL Global Development Group",
+    "nivel": "Básico"
+  },
+  {
+    "titulo": "Microservicios",
+    "descripcion": "Artículo de referencia sobre la arquitectura de microservicios: características, ventajas, desventajas y comparación con aplicaciones monolíticas.",
+    "tipo": "Artículo",
+    "enlace": "https://martinfowler.com/articles/microservices.html",
+    "imagen": "https://picsum.photos/seed/microservicios/600/320",
+    "autor": "Martin Fowler y James Lewis",
+    "nivel": "Avanzado"
+  },
+  {
+    "titulo": "Ruta de aprendizaje Backend",
+    "descripcion": "Mapa interactivo con los temas que debe dominar un desarrollador backend: lenguajes, bases de datos, APIs, seguridad, pruebas y despliegue.",
+    "tipo": "Tutorial",
+    "enlace": "https://roadmap.sh/backend",
+    "imagen": "https://picsum.photos/seed/roadmap/600/320",
+    "autor": "roadmap.sh",
+    "nivel": "Intermedio"
+  },
+  {
+    "titulo": "freeCodeCamp en Español",
+    "descripcion": "Canal y plataforma con cursos completos en video sobre programación, desarrollo web, Python, JavaScript y estructuras de datos.",
+    "tipo": "Video",
+    "enlace": "https://www.freecodecamp.org/espanol/",
+    "imagen": "https://picsum.photos/seed/fcc/600/320",
+    "autor": "freeCodeCamp",
+    "nivel": "Básico"
+  }
+]
